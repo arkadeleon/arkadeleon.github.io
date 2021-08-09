@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected | 简历</title>
+    <link>https://arkadeleon.github.io/tag/selected/</link>
+      <atom:link href="https://arkadeleon.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selected</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arkadeleon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Selected</title>
+      <link>https://arkadeleon.github.io/tag/selected/</link>
+    </image>
+    
+    <item>
+      <title>Crown Resorts</title>
+      <link>https://arkadeleon.github.io/project/crown-resorts/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://arkadeleon.github.io/project/crown-resorts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIP陪练</title>
+      <link>https://arkadeleon.github.io/project/vipractice/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://arkadeleon.github.io/project/vipractice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>京东</title>
+      <link>https://arkadeleon.github.io/project/jd/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://arkadeleon.github.io/project/jd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>花伴商城</title>
+      <link>https://arkadeleon.github.io/project/huaban/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://arkadeleon.github.io/project/huaban/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
